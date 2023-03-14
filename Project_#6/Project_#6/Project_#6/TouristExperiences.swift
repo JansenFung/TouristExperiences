@@ -2,7 +2,7 @@
 //  TouristExperiences.swift
 //  Project_#6
 //
-//  Created by Jansen & Gelareh on 2023-03-02.
+//  Created by Jansen on 2023-03-02.
 //
 
 import Foundation
